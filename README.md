@@ -1,4 +1,4 @@
-# Algoritms-book01
+# Algoritms exercises
 
 ## Place to hold some of exercises available at book: "Data Structures and Algorithms Made Easy: Data Structures and Algorithmic Puzzles"
 Author: Narasimha Karumanchi
